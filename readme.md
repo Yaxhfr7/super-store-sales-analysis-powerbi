@@ -142,6 +142,6 @@ Data Analyst
 Email: tyagiyaxh627@gmail.com
 
 
-![Super Store Sales Dashboard]([Dashboard Files/Super Store Sales Dashboard.png](https://github.com/Yaxhfr7/super-store-sales-analysis-powerbi/blob/master/Dashboard%20Files/Super%20Store%20Sales%20Dashboard.png))
+![Super Store Sales Dashboard](Dashboard%20Files/Super%20Store%20Sales%20Dashboard.png)
 
 

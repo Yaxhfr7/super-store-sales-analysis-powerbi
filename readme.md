@@ -1,10 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# make it a normal readme file dont use html tings
-
-Here’s a clean, **markdown-only README file** for your Super Store Sales Dashboard project. All sections are formatted with markdown headers, lists, and code blocks, with references to your attached screenshots for illustration.
-
-***
 
 # Super Store Sales Dashboard
 
@@ -12,7 +5,7 @@ Analyze retail sales, profit, and inventory dynamics with this Power BI dashboar
 
 ***
 
-## 📌 Table of Contents
+##  Table of Contents
 
 - Overview
 - Business Problem
@@ -148,18 +141,7 @@ Yash Tyagi
 Data Analyst
 Email: tyagiyaxh627@gmail.com
 
-***
 
-This README provides a simple, clear introduction and walkthrough for your Super Store Sales Dashboard project, highlighting the attached visuals to showcase your work.
-<span style="display:none">[^1][^2][^3][^4]</span>
+![Super Store Sales Dashboard](Super%20Store%20Sales%20PowerBI/Dashboard%20Files/Super%20Store%20Sales%20Dashboard.png)
 
-<div style="text-align: center">⁂</div>
-
-[^1]: Super-Store-Sales-Dashboard.jpg
-
-[^2]: Screenshot-2025-09-13-162620.jpg
-
-[^3]: Screenshot-2025-09-13-162630.jpg
-
-[^4]: Screenshot-2025-09-13-162624.jpg
 
